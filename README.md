@@ -1,0 +1,2 @@
+# egoFair
+Fair Value Bitcoin 
